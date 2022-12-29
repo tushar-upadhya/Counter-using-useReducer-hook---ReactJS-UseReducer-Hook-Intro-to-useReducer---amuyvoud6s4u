@@ -1,5 +1,5 @@
 import React, { useReducer } from 'react'
-import { counterReducer } from '../reducers/counterReducer';
+import { counterReducer } from '../counterReducer';
 import '../styles/App.css';
 const App = () => {
 
